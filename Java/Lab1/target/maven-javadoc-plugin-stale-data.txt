@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/trela/Desktop/Studia/Semestr 5/Java/lab1/Lab1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/trela/Desktop/Studia/Semestr 5/Java/lab1/Lab1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lab1 1.0-SNAPSHOT API'
+com.mycompany.lab1.controller
+com.mycompany.lab1
+com.mycompany.lab1.model
+com.mycompany.lab1.view
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\src\main\java = 1761592686657
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\allclasses-index.html = 1761593630460
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\allpackages-index.html = 1761593630463
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\copy.svg = 1761593630514
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\element-list = 1761593630293
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\help-doc.html = 1761593630504
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\index-all.html = 1761593630492
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\index.html = 1761593630443
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\link.svg = 1761593630517
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\member-search-index.js = 1761593630470
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\module-search-index.js = 1761593630465
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\overview-summary.html = 1761593630498
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\overview-tree.html = 1761593630439
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\package-search-index.js = 1761593630466
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\script.js = 1761593630511
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\search-page.js = 1761593630528
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\search.html = 1761593630495
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\search.js = 1761593630523
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\serialized-form.html = 1761593630357
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\stylesheet.css = 1761593630507
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\tag-search-index.js = 1761593630471
+C:\Users\trela\Desktop\Studia\Semestr 5\Java\lab1\Lab1\target\reports\apidocs\type-search-index.js = 1761593630468
